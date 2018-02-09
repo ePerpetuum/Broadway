@@ -1,0 +1,23 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: px32;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.bar {
+  color: white;
+  background-color: dimgray;
+}
